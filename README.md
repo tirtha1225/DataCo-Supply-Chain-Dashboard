@@ -25,7 +25,9 @@ Inventory Management: Implement demand forecasting to reduce delays in Same Day 
 Centralized Warehouses: Streamline order fulfillment by strategically locating warehouses.
 
 Getting Started
+
 Prerequisites
+
 Access to DataCo's supply chain data.
 A platform capable of rendering interactive dashboards (e.g., Tableau, Power BI).
 Setup
@@ -34,6 +36,7 @@ Import the DataCo supply chain dataset into your preferred dashboard tool.
 Apply the provided configurations to visualize the key metrics and insights.
 Customize the visualizations to align with your specific business needs.
 Usage
+
 
 Exploring the Dashboard
 Shipping Mode Tab: Investigate late delivery risks and optimize shipping strategies.
