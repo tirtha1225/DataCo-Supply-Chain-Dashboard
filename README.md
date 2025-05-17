@@ -2,6 +2,7 @@
 DataCo Supply Chain Optimization Dashboard: Your Gateway to Smarter Logistics!
 Welcome to the Future of Supply Chain Management!
 Dive into the heart of DataCo's logistics operations with our cutting-edge Supply Chain Optimization Dashboard. Designed to transform raw data into actionable insights, this dashboard is your ultimate tool for enhancing efficiency, profitability, and customer satisfaction.
+
 ![image](https://github.com/user-attachments/assets/583df30c-873d-498c-92ad-d75b25e51b04)
 
 
